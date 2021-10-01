@@ -1,5 +1,6 @@
 # Hacktoberfest_Project_List
 This repository contains list of all the projects under HACK CLUB RAIT which are participating in Hacktoberfest.
+![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/59393136/135566614-5635902f-2907-4e01-8baf-3cb1b43a6b20.png)
 
 | Project | Tech Stack | Overview |
 |------------|----------|----------|
